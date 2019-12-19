@@ -64,7 +64,7 @@ RISC（精简） | 数量少，使用频率接近，定长格式，大部分为�
 `$$TP=\frac{指令条数}{流水线执行时间}$$`
 
 
-$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
+$$  x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 
 - 
